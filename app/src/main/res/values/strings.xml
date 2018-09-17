@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="num_temperatura">34°</string>
+    <string name="text_ciudad">Lima</string>
+    <string name="text_temperatura">Nublado</string>
+
+    <string name="texto_bienvenida">
+
+        Bienvenido a mi app del clima, para poder ver el clima de una ciudad, selecciona la opcion de abajo
+    </string>
+
+    <string name="texto_boton_lima">Clima de la ciudad de lima</string>
+    <string name="texto_boton_berlin">Clima de la ciudad de berlin</string>
+</resources>

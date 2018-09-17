@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/color_fondo"
+    tools:context="com.gustavo.appclima.CiudadesActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_bienvenida"
+        android:layout_margin="16dp"
+        />
+
+    <Button
+        android:id="@+id/btnLima"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_boton_lima"
+        android:textColor="@color/color_clima"
+        />
+
+    <Button
+        android:id="@+id/btnBerlin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_boton_berlin"
+        android:textColor="@color/color_clima"
+        />
+
+
+
+</LinearLayout>
